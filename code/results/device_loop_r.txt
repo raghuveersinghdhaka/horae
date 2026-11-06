@@ -1,0 +1,3 @@
+inactive add 4 mul 5 div 1 cmp 12 exp 1 log 3 rng 0 basic 22 transcendental 4
+active add 6 mul 10 div 10 cmp 20 exp 3 log 3 rng 2 basic 46 transcendental 6
+state_bytes 24 config_bytes 44 attempted 1 res 13 beta 0.0109375

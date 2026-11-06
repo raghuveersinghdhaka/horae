@@ -1,0 +1,4 @@
+generated/
+figures/
+__pycache__/
+*.pyc
